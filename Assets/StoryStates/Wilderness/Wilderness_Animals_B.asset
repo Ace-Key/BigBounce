@@ -10,7 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 07ef5cd5007fa814490116624484f092, type: 3}
-  m_Name: New State
+  m_Name: Wilderness_Animals_B
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Phew you managed to go undetected for some reason. Perhaps the plants
+    were the key? Anyway moving on
+
+    
+
+    A. Go forward to the portal!'
+  nextStates:
+  - {fileID: 11400000, guid: 0fba907168c140a4d830e2e4ce693d7b, type: 2}
