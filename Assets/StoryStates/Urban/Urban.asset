@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ef5cd5007fa814490116624484f092, type: 3}
+  m_Name: Urban
+  m_EditorClassIdentifier: 
+  storyText: "So you chose the Urban route huh? \nYou have dodged a few shady/dangerous
+    people to get into a built up area. Now here are your options...\n\nA. Ask for
+    directions, can't be that hard right?\nB. Create a distraction to get yourself
+    out of there..."
+  nextStates:
+  - {fileID: 11400000, guid: bbb822805d4124c4f899d91c22c1599f, type: 2}
+  - {fileID: 11400000, guid: ea12704b3de683148971d8525cab3715, type: 2}

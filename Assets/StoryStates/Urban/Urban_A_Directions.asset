@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ef5cd5007fa814490116624484f092, type: 3}
+  m_Name: Urban_A_Directions
+  m_EditorClassIdentifier: 
+  storyText: 'Oh wow the people you find are super helpful and lead you to the clearing
+    fairly quickly - of course some communication issues notwithstanding.
+
+    
+
+    A.
+    Go to the clearing and on to the next world!'
+  nextStates:
+  - {fileID: 11400000, guid: 0fba907168c140a4d830e2e4ce693d7b, type: 2}
