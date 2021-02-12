@@ -12,24 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07ef5cd5007fa814490116624484f092, type: 3}
   m_Name: Wilderness
   m_EditorClassIdentifier: 
-  storyText: 'So you chose going into the wilderness?
-
-
-    Ok, well besides the
-    initial obstacles you had to avoid to get here, you need to decide what routes
-    you will go...
-
-
-    A. Go through the forest and bushes past the weird flora,
-    and then sneak past the deadly animals? Who doesn''t want to smell flowers before
-    their untimely demise?
-
-
-    Or...
-
-
-    B. Sneak by those deadly animals first,
-    then go through the forest to the clearing. Can''t be that hard right?'
+  storyText: "So you chose going into the wilderness?\n\nOk, well besides the initial
+    obstacles you had to avoid to get here, you need to decide what routes you will
+    go...\n\nA. Go through the forest and bushes past the weird flora, and then sneak
+    past the deadly animals? \nOr...\nB. Sneak by those deadly animals first, then
+    go through the forest to the clearing. Can't be that hard right?"
   nextStates:
+  - {fileID: 11400000, guid: 0dcf703b8c4bad14eadbe595735c6b66, type: 2}
   - {fileID: 11400000, guid: 6f86344f46b4fb748a388790179b9c23, type: 2}
-  - {fileID: 11400000, guid: 4f05ea7bc7ce84f44a695a4a3d7aa145, type: 2}

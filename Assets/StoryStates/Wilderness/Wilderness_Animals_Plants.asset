@@ -16,10 +16,13 @@ MonoBehaviour:
     scent and are now chasing you!
 
 
-    A. Hide back in the bushes, hope they go
-    past
+    A. Leg it to the portal and hope to all
+    hope you make it!
 
-    B. '
+    Or...
+
+    B. Hide in the bushes - surely after a time
+    those hungry creatures will stop the chase and go back to sleep?'
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 83c0beb460df36447a663f42242f724f, type: 2}
   - {fileID: 0}

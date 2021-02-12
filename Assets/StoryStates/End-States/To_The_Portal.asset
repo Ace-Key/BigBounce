@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07ef5cd5007fa814490116624484f092, type: 3}
   m_Name: To_The_Portal
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Great Job in getting here! On to the next world!
+
+
+    [Press A to
+    continue]'
+  nextStates:
+  - {fileID: 11400000, guid: 16096010e76a423418ed5165f6990de0, type: 2}
