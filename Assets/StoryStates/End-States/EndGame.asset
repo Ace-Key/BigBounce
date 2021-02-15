@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07ef5cd5007fa814490116624484f092, type: 3}
   m_Name: EndGame
   m_EditorClassIdentifier: 
-  storyText: Well that's it, hope you enjoyed it!
+  storyText: 'Well that''s it, hope you enjoyed it!
+
+
+'
   nextStates: []
